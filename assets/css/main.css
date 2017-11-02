@@ -3882,11 +3882,11 @@
 			flex-shrink: 0;
 			display: block;
 			margin: 0 0 2em 4em;
-			width: 50%;
+			width: 100%;
 		}
 
 			#banner .image img {
-				height: 50%;
+				height: 100%;
 				-moz-object-fit: cover;
 				-webkit-object-fit: cover;
 				-ms-object-fit: cover;
@@ -3936,7 +3936,7 @@
 					height: 25em;
 					max-height: 50vh;
 					min-height: 18em;
-					width: 80%;
+					width: 100%;
 				}
 
 		}
