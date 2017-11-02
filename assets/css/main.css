@@ -3882,11 +3882,11 @@
 			flex-shrink: 0;
 			display: block;
 			margin: 0 0 2em 4em;
-			width: 100%;
+			width: 80%;
 		}
 
 			#banner .image img {
-				height: 100%;
+				height: 80%;
 				-moz-object-fit: cover;
 				-webkit-object-fit: cover;
 				-ms-object-fit: cover;
