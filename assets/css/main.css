@@ -3898,7 +3898,7 @@
 						width: 100%;
 					}
 
-				@media screen and (orientation: portrait) {
+				@media screen and (orientation: landscape) {
 
 					#banner {
 						-moz-flex-direction: column-reverse;
@@ -3934,7 +3934,7 @@
 							flex-shrink: 0;
 							margin: 0 0 4em 0;
 							height: 25em;
-							max-height: 50vh;
+							max-height: 60vh;
 							min-height: 18em;
 							width: 100%;
 						}
