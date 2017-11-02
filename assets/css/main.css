@@ -3895,7 +3895,7 @@
 				-webkit-object-position: center;
 				-ms-object-position: center;
 				object-position: center;
-				width: 50%;
+				width: 100%;
 			}
 
 		@media screen and (orientation: portrait) {
@@ -3936,7 +3936,7 @@
 					height: 25em;
 					max-height: 50vh;
 					min-height: 18em;
-					width: 100%;
+					width: 80%;
 				}
 
 		}
